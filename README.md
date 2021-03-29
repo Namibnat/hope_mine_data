@@ -1,32 +1,12 @@
 # Hope Mine Records Namibia
 
-Current status of this project:
-Just starting out.  More details to follow soon.
+Data was provided to me by a researcher
+who had collected temperature and humidity
+data in the Hope Mine, in central Namibia.
 
+My goal here was to clean and prepare the
+data in a way that it could be useful to compare
+to future data.
 
-## Abstract
-
-
-## Introduction
-
-
-## Methods
-
-
-## Results
-
-
-### Location
-
-The Hope Mine is an unused mine in the Namib Desert in Namibia.
-
-It is located within the Namib-Naukluft National Park, in Swakopmund Constituency,
-Erongo Region, Namibia
-
-### Data
-
-The data was collected using loggers placed at various depths within the
-mine.
-
-
-## Conclusion
+The data was collected as part of a study of 
+bats that use the mine.
